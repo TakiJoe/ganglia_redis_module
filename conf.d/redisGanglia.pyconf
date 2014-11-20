@@ -1,30 +1,30 @@
 modules {
   module {
-    name = "redisGanlia6383"
+    name = "redisGanglia6383"
     language = "python"
     param host { value = "127.0.0.1" }
     param port { value = 6383 }
   }
   module {
-    name = "redisGanlia6384"
+    name = "redisGanglia6384"
     language = "python"
     param host { value = "127.0.0.1" }
     param port { value = 6384 }
   }
   module {
-    name = "redisGanlia6385"
+    name = "redisGanglia6385"
     language = "python"
     param host { value = "127.0.0.1" }
     param port { value = 6385 }
   }
   module {
-    name = "redisGanlia6386"
+    name = "redisGanglia6386"
     language = "python"
     param host { value = "127.0.0.1" }
     param port { value = 6386 }
   }
   module {
-    name = "redisGanlia6387"
+    name = "redisGanglia6387"
     language = "python"
     param host { value = "127.0.0.1" }
     param port { value = 6387 }
